@@ -2,7 +2,9 @@ body{
     font-family: "Arial", "Verdana";
     background-color: #000000;
     color: #ffffff;
-    margin: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 h1{
     text-align: center;
@@ -96,4 +98,5 @@ footer p{
     padding-top: 15px;
     padding-bottom: 15px;
     padding-right: 15px;
+    padding-left: 0px;
 }
